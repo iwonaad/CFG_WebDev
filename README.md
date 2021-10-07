@@ -1,4 +1,4 @@
 # CFG_WebDev_W1
-My first Github page for Code First Girls Introduction to Web Development Course (W1 homework - create HTML site about yourself & include a link to a second page)
+My first Github page for Code First Girls Introduction to Web Development Course (HTML site about myself with a link to the second page included)
 
 https://iwonaad.github.io/CFG_WebDev/
